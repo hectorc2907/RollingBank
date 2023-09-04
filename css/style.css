@@ -1,0 +1,14 @@
+#carouselControls {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+.carousel-image {
+  height: 100%;
+  object-fit: cover;
+}
+@media screen and (min-width: 992px) {
+    #carouselControls{
+        max-height: 600px;
+    }
+}
