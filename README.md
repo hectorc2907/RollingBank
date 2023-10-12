@@ -21,7 +21,7 @@ El objetivo de este proyecto es poner en practica todas las etiquetas necesarias
 
 -Prueba de las etiquetas HTML5, entre usos de clases y id.  
 -Prueba de los etilos, principalmente el uso de flexbox.  
--Prueba de las mediaqueries para un uso responsive en multiples dispositivos. 
+-Prueba de las mediaqueries para un uso responsive en multiples dispositivos.  
 -Prueba de las etiquetas con diseño Bootstrap 
 
 ## Tecnologías
